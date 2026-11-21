@@ -1,0 +1,40 @@
+# Unity generated folders & caches
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+Recordings/
+
+# IDE & OS files
+.vs/
+.gradle/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+.DS_Store
+Thumbs.db
+
+# Large binaries & archives (> 50-100MB)
+*.apk
+*.aab
+*.obb
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.mov
+*.blend1
+*.tgz
+
+# Files exceeding GitHub 100MB limit automatically ignored
+AR Daun-1 (2).zip
